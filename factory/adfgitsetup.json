@@ -1,0 +1,9 @@
+{
+	"name": "adfgitsetup",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a9cb07fe-13d0-4e78-9295-71e63bc50e51",
+		"tenantId": "f744877b-156f-4767-aa8e-29ebed486603"
+	}
+}
